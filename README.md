@@ -34,7 +34,7 @@ Add dependency in your pubspec.yaml
 ```
 dependencies:
   flutter_swipeable_list_actions:
-    path: 
+    path: https://github.com/Excelsior-Technologies-Community/flutter_swipeable_list_actions/tree/stage
 ```
 Then run:
 ```
